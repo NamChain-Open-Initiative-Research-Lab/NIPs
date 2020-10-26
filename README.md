@@ -23,10 +23,10 @@ Like Bitcoin and Ethereum Community, we also intend NIP to be the primary mechan
 # NIP Types
   - **Standard NIP** describes any change that affects most or all நம்Chain implementations, such as a change to the network protocol, a change in block or transaction validity rules, proposed application standards/conventions, or any change or addition that affects the interoperability of applications using நம்Chain. Furthermore Standard NIPs can be broken down into the following categories.
     - **Core** - improvements requiring a consensus fork as well as changes that are not necessarily consensus critical but may be relevant to “core dev” discussions. 
-    - **Library** - includes improvements around Tesla - நம்Chain's Library.
-    - **Tools** - includes improvements around Newton - நம்Chain's Tools.
-    - **DLTs** - includes improvements around Ein - நம்Chain's DLTs.
-    - **BIS** - application-level standards and conventions, including contract standards such as token standards, library/package formats, wallet formats, and identity standards.
+    - **Library** - includes improvements around [Tesla](https://github.com/NamChain-Open-Initiative-Research-Lab/Tesla) - நம்Chain's Library.
+    - **Tools** - includes improvements around [Newton](https://github.com/NamChain-Open-Initiative-Research-Lab/Newton) - நம்Chain's Tools.
+    - **DLTs** - includes improvements around [Ein](https://github.com/NamChain-Open-Initiative-Research-Lab/Ein) - நம்Chain's DLTs.
+    - **[BIS](https://github.com/NamChain-Open-Initiative-Research-Lab/BIS)** - application-level standards and conventions, including contract standards such as token standards, library/package formats, wallet formats, and identity standards.
   - **Process NIP** describes a process surrounding நம்Chain or proposes a change to (or an event in) a process. Process NIPs are like Standards NIPs but apply to areas other than the நம்Chain protocol itself. Examples include procedures, guidelines, changes to the decision-making process, and changes to the tools or environment used in நம்Chain development. 
   - **Informational NIP** describes an நம்Chain design issue, or provides general guidelines or information to the நம்Chain community, but does not propose a new feature. Informational NIPs do not necessarily represent நம்Chain community consensus or a recommendation, so users and implementers are free to ignore Informational NIPs or follow their advice.
 
